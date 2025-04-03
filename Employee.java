@@ -1,11 +1,16 @@
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
 public class Employee {
 
     private String name;
     private String email;
     private int age;
-    private int salary;
+    private double salary;
 
-    public Employee (String name, String email, int age, int salary) {
+    public Employee (String name, String email, int age, double salary) {
         setName(name);
         setEmail(email);
         setAge(age);
@@ -20,7 +25,7 @@ public class Employee {
     public void setAge(int age) {
         this.age = age;
     }
-    public void setSalary(int salary{
+    public void setSalary(double salary) {
         this.salary = salary;
     }
     public String getName() {
@@ -32,8 +37,11 @@ public class Employee {
     public int getAge(){
         return age;
     }
-    public int getSalary(){
+    public double getSalary(){
         return salary;
     }
 
+    public String toString(){//para que devuelva las propiedades como String
+        return "Name: " + name + ", Email: " + email + ", Age: " + age + ", Salary: " + salary;
+    }
 }
