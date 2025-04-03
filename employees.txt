@@ -1,0 +1,10 @@
+Name: Ana, Email: ana@gmail.com, Age: 58, Salary: 50000.0
+Name: Pedro, Email: pedro@gmail.com, Age: 21, Salary: 22100.0
+Name: Julia, Email: julia@gmail.com, Age: 36, Salary: 62500.0
+Name: Ester, Email: ester@gmail.com, Age: 28, Salary: 29000.0
+Name: Alberto, Email: alberto@gmail.com, Age: 41, Salary: 48000.0
+Name: Paola, Email: paola@gmail.com, Age: 64, Salary: 32400.0
+Name: Tomas, Email: tomas@gmail.com, Age: 39, Salary: 42000.0
+Name: Angel, Email: angel@gmail.com, Age: 34, Salary: 41800.0
+Name: Mercedes, Email: mercedes@gmail.com, Age: 26, Salary: 19500.0
+Name: Pepe, Email: pepe@gmail.com, Age: 47, Salary: 50000.0
